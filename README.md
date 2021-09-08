@@ -57,5 +57,5 @@ The following table contains the food items that are suggested by me
 
 # Pithy Quotes
 
-> No problem can be solved from the same level of consciousness that created it.-*Albert Einstein*<br>
-> Imagination is more important than knowledge.-*Albert Einstein*
+> "No problem can be solved from the same level of consciousness that created it."-*Albert Einstein*<br>
+> "Imagination is more important than knowledge."-*Albert Einstein*
