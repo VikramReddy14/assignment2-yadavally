@@ -41,3 +41,16 @@ Hyderabad is my native place and one among the peaceful cities in the world wher
 * Music System
 
 [AboutMe.md](AboutMe.md)
+
+---
+
+# Food/Drinks Suggested
+
+The following table contains the food items that are suggested by me
+
+| Food/drink item | Location | Price |
+| --- | --- | --- |
+| Biryani | Shah Ghouse, Hyderabad | 320 |
+| Dosa | Food Truck, Chaitanyapuri | 40 |
+| Butter Naan & Butter Chicken | Kritunga | 400 |
+| Falooda | BN Reddy | 60 |
