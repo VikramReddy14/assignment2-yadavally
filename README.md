@@ -24,3 +24,18 @@ Hyderabad is my native place and one among the peaceful cities in the world wher
     2. LB Nagar to Chaithanyapuri bus stop.
 4. Walk for 500 meters towards swapna hospital.
 5. Opp Apartment is my Home.
+
+### Items to be brought for Max Enjoyment
+
+* Foods:
+  * Biryani
+  * Masala Dosa
+  * Bonda
+  * Poori
+* Drinks:
+  * Thumbs-up
+  * Sprite
+* Games:
+  * pack of cards
+  * chess
+* Music System
