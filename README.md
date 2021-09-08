@@ -54,3 +54,8 @@ The following table contains the food items that are suggested by me
 | Dosa | Food Truck, Chaitanyapuri | 40 |
 | Butter Naan & Butter Chicken | Kritunga | 400 |
 | Falooda | BN Reddy | 60 |
+
+# Pithy Quotes
+
+> No problem can be solved from the same level of consciousness that created it.-*Albert Einstein*
+> Imagination is more important than knowledge.-*Albert Einstein*
